@@ -6,11 +6,12 @@ about=GeoAmapá é um plugin de consulta espacial que captura a extensão atual 
 version=1.0.0
 author=Luís Lopes
 email=geo.luislopes@gmail.com
-homepage=
-tracker=
-repository=
+homepage=https://github.com/lopesluis/geoamapa
+tracker=https://github.com/lopesluis/geoamapa/issues
+repository=https://github.com/lopesluis/geoamapa
 icon=logo.png
 category=Vector
 
 [metadata]
 changelog=Versão inicial com consulta por extensão, bases WFS (CAR/INCRA) e camadas locais via GeoPackage.
+
