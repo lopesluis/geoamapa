@@ -1,0 +1,16 @@
+[general]
+name=GeoAmapá
+qgisMinimumVersion=3.34
+description=Ferramenta de consulta espacial por retângulo (extensão do mapa) para bases fundiárias e territoriais do Amapá, combinando camadas locais (GeoPackage) e serviços WFS.
+about=GeoAmapá é um plugin de consulta espacial que captura a extensão atual do mapa (retângulo envolvente) e retorna as feições que intersectam essa área, gerando camadas temporárias de resultado por base consultada. Integra dados locais (GeoPackage) e serviços WFS (CAR e INCRA) para apoiar análises rápidas no QGIS.
+version=1.0.0
+author=Luís Lopes
+email=geo.luislopes@gmail.com
+homepage=
+tracker=
+repository=
+icon=logo.png
+category=Vector
+
+[metadata]
+changelog=Versão inicial com consulta por extensão, bases WFS (CAR/INCRA) e camadas locais via GeoPackage.
